@@ -71,3 +71,6 @@ Concepts Used
 - Initial State and Goal State
 - Production Rules
 - Search Algorithms
+
+ Author 
+ Udaypratap Singh
