@@ -1,5 +1,4 @@
-Water Jug Problem – Artificial Intelligence
-
+Water Jug Problem 
 Aim
 
 To solve the Water Jug Problem using Artificial Intelligence and demonstrate how a goal state can be reached from an initial state using valid operations.
